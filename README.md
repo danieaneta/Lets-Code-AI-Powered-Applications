@@ -16,5 +16,5 @@
 
 <p>If you have any questions or inquiries, please contact me at danielle.mlconsultant@gmail.com </p>
 
-![recall-header](https://github.com/user-attachments/assets/7ba65fc7-9c50-4eb8-9096-2a59c2422cda)
+![recall-header](https://github.com/user-attachments/assets/7ba65fc7-9c50-4eb8-9096-2a59c2422cda | width=50%)
 ![recall-pt1-small](https://github.com/user-attachments/assets/9ae9c350-f80a-46fe-a0da-690bdaf19874)
