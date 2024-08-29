@@ -12,6 +12,7 @@
  <li>A Self-Driving Car</li>
  <li>A Ring Camera + More</li>
  <li>A Robot Server</li>
+ <li>Fast Food Surge Pricing</li>
 </ul>
 
 <p>If you have any questions or inquiries, please contact me at danielle.mlconsultant@gmail.com </p>
